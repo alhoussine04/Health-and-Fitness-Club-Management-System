@@ -54,3 +54,10 @@ Follow the prompts in the script to navigate through different functionalities a
 - Modify the database connection details in the Python script (`health_club.py`) to match your setup (host, database name, username, password).
 
 ---
+
+## Video Demonstration
+
+- Explaining Database and Code: https://www.youtube.com/watch?v=jtwHK5lBzeg
+- Running the Code: https://www.youtube.com/watch?v=nxASzi9-Iec
+
+---
